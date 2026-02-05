@@ -21,10 +21,18 @@ En organizaciones grandes es común delegar soporte por sedes o regiones. El pro
    - El admin local no puede gestionar usuarios fuera de su UA.
 
 ## Evidencias
-- Usuarios en UA: images/01-ua-users.png
-- Rol con scope UA: images/02-ua-scope.png
-- Intento fuera de la UA (denegado): images/03-denied-outside-ua.png
-- Intento con usuario_9 (denegado): images/04-denied-user9.png
+
+### 01 - Usuarios añadidos a la Unidad Administrativa
+[<img src="images/01-ua-users.png" width="800">](images/01-ua-users.png)
+
+### 02 - Rol asignado con scope limitado a la UA
+[<img src="images/02-ua-scope.png" width="800">](images/02-ua-scope.png)
+
+### 03 - Intento fuera de la UA (denegado)
+[<img src="images/03-denied-outside-ua.png" width="800">](images/03-denied-outside-ua.png)
+
+### 04 - Intento con usuario_9 (denegado)
+[<img src="images/04-denied-user9.png" width="800">](images/04-denied-user9.png)
 
 Nota: si alguna captura muestra contraseñas temporales, conviene ocultarlas antes de subirlas al repositorio.
 
